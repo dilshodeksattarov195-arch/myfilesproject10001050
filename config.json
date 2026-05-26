@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuecrypt",
+        "uuid": 6064800,
+        "checksum": "8v2729"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
